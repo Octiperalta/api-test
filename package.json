@@ -1,6 +1,6 @@
 {
   "name": "rest-api-2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "dependencies": {
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.6",
     "winston": "^3.3.3"
   },
   "devDependencies": {
